@@ -22,6 +22,8 @@ Jump To: [Lead](#lead), [Opportunity](#opportunity), [Process](#process), [Compe
 
 - [ ] Is there unusually high potential for the dollar value of this deal to grow over time?
 
+- [ ] Are we aware of other business groups or corporate affiliates we can sell to?
+
 - [ ] Is this lead strategically valuable in some other way?
 
 ## Process
