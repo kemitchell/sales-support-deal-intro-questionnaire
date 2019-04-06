@@ -42,6 +42,6 @@ Jump To: [Lead](#lead), [Opportunity](#opportunity), [Process](#process), [Compe
 
 ---
 
-&copy; K.E. Mitchell
+&copy; K.E. Mitchell (<kyle@kemitchell.com>)
 
 This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).
