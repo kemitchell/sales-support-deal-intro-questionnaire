@@ -14,6 +14,8 @@ Jump To: [Lead](#lead), [Opportunity](#opportunity), [Process](#process), [Compe
 
 - [ ] Where are they based?
 
+- [ ] Do they work in a specially regulated industry like healthcare, finance, services for children, or the like?
+
 ## Opportunity
 
 - [ ] How much money are we talking?
