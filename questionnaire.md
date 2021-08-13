@@ -32,6 +32,8 @@ Jump To: [Lead](#lead), [Opportunity](#opportunity), [Process](#process), [Compe
 
 - [ ] Is their legal already involved?
 
+- [ ] Is an external consultant or consulting firm already involved?
+
 - [ ] Have we received or responded to any questionnaires?  Please send me copies, and let me know who handled them.
 
 - [ ] Is their budget or procurement process tied to a deadline, like the end of a quarter?
