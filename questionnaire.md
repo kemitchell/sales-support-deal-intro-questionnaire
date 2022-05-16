@@ -20,7 +20,7 @@ Jump To: [Lead](#lead), [Opportunity](#opportunity), [Process](#process), [Compe
 
 - [ ] How much money are we talking?
 
-- [ ] Any usual needs on their part?
+- [ ] Any unusual needs on their part?
 
 - [ ] Is there unusually high potential for the dollar value of this deal to grow over time?
 
